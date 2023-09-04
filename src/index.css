@@ -31,12 +31,3 @@ body {
   border: 0;
 }
 
-body::before{
-  background-color: black;
-  /* background-color: hsl(195deg, 20%, 86%); */
-  content: '';
-  height: 50%;
-  width: auto;
-  position:absolute;
-  bottom: 0;
-}
